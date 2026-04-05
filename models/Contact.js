@@ -27,4 +27,4 @@ const contactSchema = new mongoose.Schema({
     }
 });
 
-module.exports = mongoose.model('Frecuencia Oreka Contact', contactSchema)
+module.exports = mongoose.model('Contacts', contactSchema)
